@@ -41,7 +41,7 @@ document.getElementById("showWatch").addEventListener("click", function(){
     removeActive();
     this.classList.add("active");
 
-    showWatch();
+    //showWatch();
 })
 
 /* Funcions per detectar la cerca d'una pel·lícula */
